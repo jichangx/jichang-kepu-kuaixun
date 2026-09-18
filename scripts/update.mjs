@@ -95,7 +95,7 @@ const readme = `# 机场科普与快讯:测速怎么读、协议与内核是什�
 
 把用机场时会遇到、但很少有人系统讲清楚的事写明白:测速图怎么读、节点名里的符号什么意思、Shadowsocks / VLESS / Hysteria 2 / AnyTLS 这些协议差在哪、Mihomo / sing-box / Xray 内核是什么关系、哪些客户端已经没人维护。科普来自 [机场帮「机场杂谈」](${TALK}) 与 [机场探科普栏目](${TAN}/articles/),快讯来自机场探动态栏目与机场帮最新文章,每天自动同步。
 
-> 🔗 相关仓库:[2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian) · [翻墙科普攻略](https://github.com/jichangx/fanqiang-kepu) · [客户端下载与教程](https://github.com/jichangx/jichang-kehuduan) · [跑路机场预警](https://github.com/jichangx/airport-status) · [四站精品聚合](https://github.com/jichangx)
+> 🔗 相关仓库:[2026 机场推荐清单](https://github.com/jichangx/2026-jichangcha-tuijian) · [翻墙科普攻略](https://github.com/jichangx/fanqiang-kepu) · [客户端下载与教程](https://github.com/jichangx/jichang-kehuduan) · [跑路机场预警](https://github.com/jichangx/airport-status) · [机场查精品聚合](https://github.com/jichangx)
 
 ## 📰 快讯:客户端版本更新与服务动态(机场探)
 
