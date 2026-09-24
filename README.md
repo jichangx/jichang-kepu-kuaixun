@@ -1,6 +1,6 @@
 # 机场科普与快讯:测速怎么读、协议与内核是什么、订阅安全、客户端版本动态(每日同步)
 
-![更新](https://img.shields.io/badge/更新-2026--09--23-00e676) ![科普](https://img.shields.io/badge/科普文章-34%20篇-00b0ff) ![快讯](https://img.shields.io/badge/快讯-16%20条-fbbf24) [![来源](https://img.shields.io/badge/内容来源-机场帮%20·%20机场探-f87171)](https://jichangtan.com/articles/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
+![更新](https://img.shields.io/badge/更新-2026--09--24-00e676) ![科普](https://img.shields.io/badge/科普文章-34%20篇-00b0ff) ![快讯](https://img.shields.io/badge/快讯-16%20条-fbbf24) [![来源](https://img.shields.io/badge/内容来源-机场帮%20·%20机场探-f87171)](https://jichangtan.com/articles/) [![Telegram](https://img.shields.io/badge/Telegram-%40jichangcha-26A5E4?logo=telegram&logoColor=white)](https://t.me/jichangcha)
 
 把用机场时会遇到、但很少有人系统讲清楚的事写明白:测速图怎么读、节点名里的符号什么意思、Shadowsocks / VLESS / Hysteria 2 / AnyTLS 这些协议差在哪、Mihomo / sing-box / Xray 内核是什么关系、哪些客户端已经没人维护。科普来自 [机场帮「机场杂谈」](https://www.jichanghelp.com/category/airport-talk/) 与 [机场探科普栏目](https://jichangtan.com/articles/),快讯来自机场探动态栏目与机场帮最新文章,每天自动同步。
 
